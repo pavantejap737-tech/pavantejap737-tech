@@ -1,1 +1,1 @@
-# hello-world-
+This repository is a learning project for practicing Git, GitHub, Node.js, npm, Axios, and API testing with Postman. It documents my progress as I build practical software development skills and learn how to manage projects using version control.
